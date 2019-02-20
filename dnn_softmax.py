@@ -130,7 +130,7 @@ def L_layer_model(X, Y, layer_dims, t=64,learning_rate = 0.0075, num_epochs = 30
             costs.append(cost)
     plt.plot(np.squeeze(costs))
     plt.ylabel('cost')
-    plt.xlabel('iterations (per tens)')
+    plt.xlabel('iterations (per fives)')
     plt.title("Learning rate =" + str(learning_rate))
     plt.show()
     return parameters
