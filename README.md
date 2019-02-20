@@ -1,3 +1,3 @@
-# Handwritten-Digit-Recognition
+# Learning to read
 
 ![](clip.gif)
