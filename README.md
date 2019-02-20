@@ -1,3 +1,3 @@
 # Handwritten-Digit-Recognition
 
-![]clip.gif
+![](clip.gif)
