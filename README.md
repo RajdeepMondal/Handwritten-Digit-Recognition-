@@ -1,3 +1,3 @@
-# ![](five.jpg) Learning to read
+# ![](five.jpg|25%) Learning to read
 
 ![](clip.gif)
