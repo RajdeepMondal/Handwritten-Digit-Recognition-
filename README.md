@@ -1,3 +1,3 @@
-# ![Logo](five.jpg = 28x28) Learning to read
+# ![Logo](five.jpg =28x28) Learning to read
 
 ![](clip.gif)
