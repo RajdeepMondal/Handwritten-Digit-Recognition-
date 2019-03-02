@@ -1,3 +1,3 @@
-# Learning to read
+# Gesture Recognizer
 
 ![](clip.gif)
